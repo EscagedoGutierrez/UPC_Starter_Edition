@@ -92,7 +92,7 @@ UPC implements a universal operator sequence:
 - **T — Trace**  
   Producing a stable, auditable record.
 
-This pipeline produces **deterministic, reproducible meaning** — the foundation of stable AI reasoning.
+This pipeline produces **deterministic, reproducible meaning**, the foundation of stable AI reasoning.
 
 **1 — The Issue With AI (Drift, Ungroundedness, No View‑From‑Somewhere)**
 
@@ -100,7 +100,7 @@ Modern AI systems operate without grounding, anchoring, or a lived point of view
 
 **2 — The UPC Logic (Mechanical Limits + Structural Upgrade)**
 
-UPC clarifies that mechanical and digital systems cannot perform recognition or certification; these acts require a conscious observer with a lived point of view. AI draws entirely from its training data, statistical modeling, and the mathematical structures humans designed for it. It can generate potentials, patterns, and requested outputs, but it cannot certify any of them as meaning. That final step—recognition, commitment, collapse—is always performed by human beings. Yet AI can still be improved: by giving the system a UPC‑structured collapse pipeline, we constrain its interpretive space, stabilize its transitions, and make its outputs more coherent for the human observer who ultimately performs recognition. UPC does not give AI consciousness, but it gives AI a shape aligned with how meaning actually forms, reducing drift and making the system far more predictable and auditable.
+UPC clarifies that mechanical and digital systems cannot perform recognition or certification; these acts require a conscious observer with a lived point of view. AI draws entirely from its training data, statistical modeling, and the mathematical structures humans designed for it. It can generate potentials, patterns, and requested outputs, but it cannot certify any of them as meaning. That final step, recognition, commitment, collapse, is always performed by human beings. Yet AI can still be improved: by giving the system a UPC‑structured collapse pipeline, we constrain its interpretive space, stabilize its transitions, and make its outputs more coherent for the human observer who ultimately performs recognition. UPC does not give AI consciousness, but it gives AI a shape aligned with how meaning actually forms, reducing drift and making the system far more predictable and auditable.
 
 **3 — The Structural Limit Behind AI Drift**
 
