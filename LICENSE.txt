@@ -1,0 +1,21 @@
+UPC Starter Edition License
+Copyright (c) 2026 
+Eloy Escagedo Gutierrez  
+All Rights Reserved.
+
+This software is licensed for INDIVIDUAL, NON‑COMMERCIAL USE ONLY.
+
+You MAY:
+- Use this software for personal learning, experimentation, or academic research.
+
+You MAY NOT:
+- Redistribute, publish, upload, or share the source code.
+- Resell this software or include it in any paid product.
+- Use this software in commercial systems or applications.
+- Modify and redistribute derivative versions.
+
+Commercial, enterprise, or redistribution licensing requires explicit written
+permission from the copyright holder.
+
+Contact:
+Eloy Escagedo Gutierrez
