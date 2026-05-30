@@ -60,7 +60,7 @@ Modern AI systems suffer from:
 - unpredictable agent behavior  
 
 These are not “bugs.”  
-They are **collapse failures** — the system has no structured way to bind meaning to an observer.
+They are **collapse failures**, the system has no structured way to bind meaning to an observer.
 
 UPC fixes the root cause by enforcing a **universal collapse architecture**.
 
