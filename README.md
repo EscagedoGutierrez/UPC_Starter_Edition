@@ -138,8 +138,10 @@ Since then, UPC has expanded into:
 - **UPC–QM Bridge Master Index**  
   https://escagedogutierrez.github.io/UPC-QM-Bridge-Master-Index
 
-- **Zenodo DOI**
-- 
+---
+
+### **Zenodo DOI**
+
 - **[QM, A Category Error: The UPC–QM Bridge](https://zenodo.org/records/20456099)**  
 - **[Formal Operators for Common Paradoxes: The UPC–QM Bridge](https://zenodo.org/records/19797037)**  
 - **[An Epistle to the Academy concerning the Language of Quantum Mechanics: The UPC–QM Bridge](https://zenodo.org/records/19635252)**  
@@ -172,8 +174,9 @@ Since then, UPC has expanded into:
 - **[The Century Shaken: A Note on the Collapse of Marx, Rand, and Materialism](https://zenodo.org/records/17889470)**  
 - **[Hidden Kinship Between Marx and Rand: A Gap in Scholarship Destabilizing Three Major Pillars](https://doi.org/10.5281/zenodo.17867525)**
 
-- **PhilPapers Entry**  
-### **PhilPapers Entries (Newest → Oldest)**
+---
+
+### **PhilPapers Entries**
 
 - **[QM, A Category Error: The UPC–QM Bridge](https://philpapers.org/rec/ESCQAC)**  
 - **[Formal Operators for Common Paradoxes: The UPC–QM Bridge](https://philpapers.org/rec/ESCFOF)**  
