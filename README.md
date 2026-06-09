@@ -185,6 +185,7 @@ A record of the collapse path is produced for inspection and auditability.
 
 ### **Zenodo DOI**
 
+- **[In Quantum Mechanics, Everything Happens in a Box: The UPC–QM Bridge](https://zenodo.org/records/20572820)**
 - **[QM, A Category Error: The UPC–QM Bridge](https://zenodo.org/records/20456099)**  
 - **[Formal Operators for Common Paradoxes: The UPC–QM Bridge](https://zenodo.org/records/19797037)**  
 - **[An Epistle to the Academy concerning the Language of Quantum Mechanics: The UPC–QM Bridge](https://zenodo.org/records/19635252)**  
@@ -221,6 +222,7 @@ A record of the collapse path is produced for inspection and auditability.
 
 ### **PhilPapers Entries**
 
+- **[In Quantum Mechanics, Everything Happens in a Box: The UPC–QM Bridge](https://philpapers.org/rec/ESCIQM)**
 - **[QM, A Category Error: The UPC–QM Bridge](https://philpapers.org/rec/ESCQAC)**  
 - **[Formal Operators for Common Paradoxes: The UPC–QM Bridge](https://philpapers.org/rec/ESCFOF)**  
 - **[An Epistle to the Academy concerning the Language of Quantum Mechanics: The UPC–QM Bridge](https://philpapers.org/rec/ESCAET)**  
