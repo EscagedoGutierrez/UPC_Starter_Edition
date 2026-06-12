@@ -60,10 +60,9 @@ This Starter Edition includes the **complete, executable Python implementation**
 ```json
 {
   "observer": "Eloy",
-  "commitment": "Meaning committed: Primary focus terms: chaotic, cloud, conflicting, claims, signals"
+  "commitment": "Meaning committed..."
 }
 ```
-
 ---
 
 This trace enables:
