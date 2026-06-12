@@ -62,7 +62,8 @@ This Starter Edition includes the **complete, executable Python implementation**
   "observer": "Eloy",
   "commitment": "Meaning committed: Primary focus terms: chaotic, cloud, conflicting, claims, signals"
 }
-``` 
+```
+
 This trace enables:
 
 - auditability
