@@ -13,10 +13,14 @@ All Rights Reserved.
 UPC is a **deterministic collapse pipeline** that transforms raw input into **stable, observer‑indexed meaning**.  
 It provides a structural solution to:
 
-- drift  
-- hallucinations  
-- inconsistent reasoning  
-- unstable semantic collapse  
+- drift
+
+- hallucinations
+
+- inconsistent reasoning
+
+- unstable semantic collapse
+
 - unpredictable agent behavior  
 
 UPC is not a heuristic or prompt trick — it is a **universal operator architecture**:
@@ -30,16 +34,23 @@ This Starter Edition includes the **complete, executable Python implementation**
 ## **2. Before & After: Drift vs. UPC‑Stabilized Output**
 
 ### **Baseline LLM Output (Drifting)**
-- Shifts frames mid‑response  
-- Contradicts earlier statements  
-- Changes tone and interpretation  
+- Shifts frames mid‑response
+
+- Contradicts earlier statements
+
+- Changes tone and interpretation
+
 - Produces unstable meaning collapse  
 
 ### **UPC‑Stabilized Output**
-- Single interpretive stance  
-- Stable salience  
-- Coherent logical articulation  
-- Observer‑aligned commitment  
+- Single interpretive stance
+
+- Stable salience
+
+- Coherent logical articulation
+ 
+- Observer‑aligned commitment
+ 
 - Deterministic collapse trace  
 
 ---
@@ -51,7 +62,7 @@ This Starter Edition includes the **complete, executable Python implementation**
   "observer": "Eloy",
   "commitment": "Meaning committed: Primary focus terms: chaotic, cloud, conflicting, claims, signals"
 }
-
+```
 This trace enables:
 
 - auditability
@@ -88,7 +99,7 @@ print(pipeline)
 
 - logic articulators
 
-collapse strategies
+- collapse strategies
 
 **5. Use Cases**
 UPC is ideal for:
@@ -113,12 +124,15 @@ UPC is ideal for:
 Starter Edition license covers:
 
 - individual, non‑commercial use
+- 
 - research and experimentation
 
 Commercial licensing tiers:
 
-- Indie Developer — $499  
-- Small Team — $5,000/year  
+- Indie Developer — $499
+- 
+- Small Team — $5,000/year
+- 
 - Enterprise — $25,000–$250,000/year  
 
 **7. Contact**  
