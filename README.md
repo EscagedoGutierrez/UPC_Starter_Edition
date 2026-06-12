@@ -101,15 +101,15 @@ UPC is ideal for:
 Starter Edition license covers:
 
 - individual, non‑commercial use
-- 
+ 
 - research and experimentation
 
 Commercial licensing tiers:
 
 - Indie Developer — $499
-- 
+ 
 - Small Team — $5,000/year
-- 
+ 
 - Enterprise — $25,000–$250,000/year  
 
 **7. Contact**  
@@ -139,8 +139,6 @@ Yes — by constraining interpretive transitions.
 
 Can I extend UPC?  
 Yes — all operators are modular.
-
-```
 
 The **UPC Starter Edition** provides the complete, executable implementation of the Universal Principle of Collapse (UPC) meaning‑formation engine. It includes everything needed to run the full collapse pipeline and integrate deterministic meaning‑formation into your AI agents.
 
