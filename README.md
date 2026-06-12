@@ -63,6 +63,7 @@ This Starter Edition includes the **complete, executable Python implementation**
   "commitment": "Meaning committed: Primary focus terms: chaotic, cloud, conflicting, claims, signals"
 }
 ```
+
 ---
 
 This trace enables:
