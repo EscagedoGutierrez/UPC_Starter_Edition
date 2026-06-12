@@ -6,7 +6,8 @@
 Copyright (c) 2026  
 Eloy Escagedo Gutierrez  
 All Rights Reserved.
-```****
+
+---
 
 ## **1. Executive Summary**
 
@@ -14,13 +15,9 @@ UPC is a **deterministic collapse pipeline** that transforms raw input into **st
 It provides a structural solution to:
 
 - drift
-
 - hallucinations
-
 - inconsistent reasoning
-
 - unstable semantic collapse
-
 - unpredictable agent behavior  
 
 UPC is not a heuristic or prompt trick — it is a **universal operator architecture**:
@@ -35,36 +32,33 @@ This Starter Edition includes the **complete, executable Python implementation**
 
 ### **Baseline LLM Output (Drifting)**
 - Shifts frames mid‑response
-
 - Contradicts earlier statements
-
 - Changes tone and interpretation
-
 - Produces unstable meaning collapse  
 
 ### **UPC‑Stabilized Output**
 - Single interpretive stance
-
 - Stable salience
-
 - Coherent logical articulation
- 
 - Observer‑aligned commitment
- 
 - Deterministic collapse trace  
 
 ---
 
 ## **3. Collapse Trace Example**
 
+```json
+{
+  "observer": "Eloy",
+  "commitment": "Meaning committed..."
+}
+```
+
 This trace enables:
 
 - auditability
-
 - reproducibility
-
 - compliance
-
 - debugging
 
 **4. Quick Start (Integration Guide)**
@@ -86,32 +80,21 @@ pipeline = (
 print(pipeline)
 
 - Define your own:
-
 - model operators
-
 - salience functions
-
 - logic articulators
-
 - collapse strategies
 
 **5. Use Cases**
 UPC is ideal for:
 
 - AI agents
-
 - RAG pipelines
-
 - safety‑critical reasoning
-
 - legal & compliance AI
-
 - medical triage assistants
-
 - financial modeling agents
-
 - multi‑agent coordination
-
 - semantic stability research
 
 **6. Licensing**
