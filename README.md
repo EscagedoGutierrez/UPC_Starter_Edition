@@ -57,13 +57,6 @@ This Starter Edition includes the **complete, executable Python implementation**
 
 ## **3. Collapse Trace Example**
 
-```json
-{
-  "observer": "Eloy",
-  "commitment": "Meaning committed..."
-}
-```
-
 This trace enables:
 
 - auditability
