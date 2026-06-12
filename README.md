@@ -63,7 +63,6 @@ This Starter Edition includes the **complete, executable Python implementation**
   "commitment": "Meaning committed..."
 }
 ```
----
 
 This trace enables:
 
