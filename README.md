@@ -8,8 +8,6 @@ Eloy Escagedo Gutierrez
 All Rights Reserved.
 
 ---
-[UPC Starter Edition Whitepaper](https://github.com/EscagedoGutierrez/UPC_Starter_Edition/blob/main/WHITEPAPER.md)
----
 
 ## **1. Executive Summary**
 
