@@ -1,4 +1,5 @@
-**UPC — Universal Principle of Collapse (Starter Edition)**
+##UPC — Universal Principle of Collapse (Starter Edition)##
+
 A deterministic meaning‑formation engine for AI stability
 Copyright © 2026 — Eloy Escagedo Gutierrez. All Rights Reserved.
 
