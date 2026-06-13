@@ -56,12 +56,12 @@ single interpretive stance
 - deterministic collapse trace
 
 **3. Collapse Trace Example**
-
+```
 {
   "observer": "Eloy",
   "commitment": "Meaning committed..."
 }
-
+```
 This enables:
 
 - auditability
@@ -77,7 +77,7 @@ UPC has **no external dependencies**.
 Drop the module into your project and run:
 
 from upc import UPCPipeline
-
+```
 pipeline = (
     UPCPipeline("Your raw input here")
         .apply_model(model_operator)
@@ -87,7 +87,7 @@ pipeline = (
         .collapse(collapse_operator)
         .trace()
 )
-
+```
 print(pipeline)
 
 - Define your own:
