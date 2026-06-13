@@ -302,7 +302,9 @@ The system commits to one coherent answer.
 **T — Trace**
 A record of the collapse path is produced.
 
+
 **17. Python Demo (Mockup Example)**
+
 Illustrative only — not the full implementation
 
 class UPCPipeline:
