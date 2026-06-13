@@ -343,7 +343,7 @@ class UPCPipeline:
         return self.trace_data
 
 **Example Operators**
-
+```
 def model_operator(x):
     return {"interpreted": x}
 
@@ -355,7 +355,7 @@ def logic_operator(x):
 
 def collapse_operator(x):
     return f"Collapsed meaning for {x['observer']}"
-
+```
 **Demo Script**
 ```
 pipeline = (
