@@ -357,7 +357,7 @@ def collapse_operator(x):
     return f"Collapsed meaning for {x['observer']}"
 
 **Demo Script**
-
+```
 pipeline = (
     UPCPipeline("Analyze this input.")
         .apply_model(model_operator)
@@ -367,6 +367,7 @@ pipeline = (
         .collapse(collapse_operator)
         .trace()
 )
+```
 
 print(pipeline)
 
